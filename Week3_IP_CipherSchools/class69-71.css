@@ -1,0 +1,13 @@
+p::first-letter{
+    font-size: 30px;
+}
+
+p::selection{
+    background: black;
+    color: aqua;
+}
+
+.cool::before{
+    content: 'Hello';
+    border: 2px solid black;
+}

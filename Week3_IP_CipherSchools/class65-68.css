@@ -1,0 +1,32 @@
+p:first-child{
+    color: blueviolet;
+}
+
+/* p:first-of-type{
+    color: aqua;
+} */
+
+/* p:last-child{
+    color: blue;
+} */
+
+/* p:last-of-type{
+    color: darkblue;
+} */
+
+/* nth child selctor */
+
+/* p:nth-child(2n){
+    color: gold;
+} */
+
+
+/* root,not and empty psudo selectors */
+
+/*body :not(p){
+    color: aqua;
+} */
+
+/* :root{
+    background-color: blue;
+} */

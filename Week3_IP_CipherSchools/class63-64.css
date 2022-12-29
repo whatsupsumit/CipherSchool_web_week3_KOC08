@@ -1,0 +1,21 @@
+a:link{
+    color: blue;
+}
+a:hover{
+    color: darkgreen;
+}
+a:visited{
+    color: deeppink;
+}
+a:active{
+    color: black;
+}
+input:focus{
+    padding: 5px;
+    outline: none;
+    border: 2px solid yellow;
+}
+
+input:required{
+    color: chartreuse;
+}

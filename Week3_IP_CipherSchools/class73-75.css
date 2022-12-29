@@ -1,0 +1,28 @@
+html{
+    /* font-size: 10px; */
+    font-size: 62.5%;
+}
+div{
+    font-size: 10px;
+    border: 2px solid green;
+    width: 50%;
+}
+
+p{
+    font-size: 100%;
+    width: 50%;
+    margin: 4px auto;
+    border: 3px solid red;
+    background: lightblue;
+    /* 1 inch is 2.5 cm */
+    /* 1px == 0.75pt */
+}
+
+.box1{
+    font-size: 3rem;
+    margin: 0.5rem;
+    padding: 4.5rem;
+}
+
+/* em relatie unit */
+

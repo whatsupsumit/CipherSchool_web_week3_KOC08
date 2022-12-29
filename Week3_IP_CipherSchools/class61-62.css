@@ -1,0 +1,24 @@
+h1{
+    color:crimson;
+    text-decoration: underline dotted rebeccapurple;
+    text-align: center;
+}
+h2{
+    color: darkgreen;
+    width: 500px;
+    text-align: right;
+}
+a{
+    display: inline-block;
+    background-color: darkorange;
+    width: 500px;
+    text-align: center;
+}
+
+p{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 500;
+    line-height: 50px;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+}

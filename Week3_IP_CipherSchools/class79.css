@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+.favmusic{
+    border: 5px solid greenyellow;
+}
+.english{
+    width: 25%;
+    float: left;
+    background-color: aqua;
+    padding: 20px;
+    
+}
+.hindi{
+    width: 25%;
+    float: left;
+    background-color:darkcyan;
+    padding: 20px;
+    
+}
+.mix{
+    width: 25%;
+    background-color: coral;
+    float: left;
+    padding: 20px;
+    
+}
+.global{
+    width: 25%;
+    float: left;
+    background-color: rgb(145, 122, 114);
+    padding: 20px;
+    
+}
+.favmusic::after{
+    content: "";
+    display: block;
+    clear: both;
+
+}
+/* .clearfix{
+    clear: both;
+} */
